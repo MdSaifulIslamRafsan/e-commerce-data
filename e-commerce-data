@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "price": 799.99,
+    "description": "The latest iPhone with a powerful A14 Bionic chip and OLED display.",
+    "category": "Electronics",
+    "availability": true,
+    "image": "https://example.com/smartphone_image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "brand": "Dell",
+    "model": "XPS 13",
+    "price": 1199.99,
+    "description": "A high-performance laptop with a stunning InfinityEdge display.",
+    "category": "Electronics",
+    "availability": true,
+    "image": "https://example.com/laptop_image1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "brand": "Sony",
+    "model": "WH-1000XM4",
+    "price": 349.99,
+    "description": "Industry-leading noise-canceling headphones with exceptional sound quality.",
+    "category": "Electronics",
+    "availability": false,
+    "image": "https://example.com/headphones_image1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Running Shoes",
+    "brand": "Nike",
+    "model": "Air Zoom Pegasus 37",
+    "price": 119.99,
+    "description": "Lightweight and responsive running shoes for maximum comfort and performance.",
+    "category": "Sports & Outdoors",
+    "availability": true,
+    "image": "https://example.com/runningshoes_image1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Yoga Mat",
+    "brand": "Lululemon",
+    "model": "The Reversible Mat 5mm",
+    "price": 68.00,
+    "description": "A durable and non-slip yoga mat suitable for all types of yoga practices.",
+    "category": "Sports & Outdoors",
+    "availability": true,
+    "image": "https://example.com/yogamat_image1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Smartwatch",
+    "brand": "Samsung",
+    "model": "Galaxy Watch Active 2",
+    "price": 249.99,
+    "description": "Stylish and functional smartwatch with health tracking features.",
+    "category": "Electronics",
+    "availability": true,
+    "image": "https://example.com/smartwatch_image1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Desk Chair",
+    "brand": "Herman Miller",
+    "model": "Aeron Chair",
+    "price": 1395.00,
+    "description": "Ergonomic desk chair designed for comfort and support during long hours of sitting.",
+    "category": "Furniture",
+    "availability": true,
+    "image": "https://example.com/deskchair_image1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "brand": "Canon",
+    "model": "EOS Rebel T7i",
+    "price": 699.99,
+    "description": "High-quality DSLR camera with advanced imaging technology.",
+    "category": "Electronics",
+    "availability": true,
+    "image": "https://example.com/digitalcamera_image1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Backpack",
+    "brand": "The North Face",
+    "model": "Jester Backpack",
+    "price": 69.00,
+    "description": "Durable and versatile backpack for everyday use or outdoor adventures.",
+    "category": "Fashion & Accessories",
+    "availability": true,
+    "image": "https://example.com/backpack_image1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blender",
+    "brand": "Vitamix",
+    "model": "Explorian Blender",
+    "price": 349.95,
+    "description": "High-performance blender for making smoothies, soups, and more.",
+    "category": "Home & Kitchen",
+    "availability": true,
+    "image": "https://example.com/blender_image1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Gaming Console",
+    "brand": "Sony",
+    "model": "PlayStation 5",
+    "price": 499.99,
+    "description": "Next-generation gaming console with powerful hardware and immersive gaming experiences.",
+    "category": "Electronics",
+    "availability": true,
+    "image": "https://example.com/gamingconsole_image1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Smart Speaker",
+    "brand": "Amazon",
+    "model": "Echo Dot (4th Gen)",
+    "price": 49.99,
+    "description": "Voice-controlled smart speaker with Alexa assistant for hands-free convenience.",
+    "category": "Electronics",
+    "availability": true,
+    "image": "https://example.com/smartspeaker_image1.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Winter Jacket",
+    "brand": "Canada Goose",
+    "model": "Expedition Parka",
+    "price": 1095.00,
+    "description": "Warm and durable winter jacket designed for extreme cold weather conditions.",
+    "category": "Fashion & Accessories",
+    "availability": true,
+    "image": "https://example.com/smartspeaker_image1.jpg"
+  }
+]
+   
